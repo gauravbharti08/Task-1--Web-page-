@@ -1,0 +1,103 @@
+body{
+    
+    font-family: 'Cabin', sans-serif;
+}
+#heading{
+     background-color: springgreen;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 50px 550px;
+     padding: 0px 20px;
+     height: 50px;
+     border-radius: 5px;
+     margin-bottom: 0px ;
+     margin-top: 0px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+         
+}
+
+#subheading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 300px;
+    font-size: large;
+       
+}
+#sub{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 300px;
+    font-size: large;
+    font-weight: bolder;
+    
+    
+    
+}
+hr{
+    width: 70%;
+    border-style: dashed;
+    border-color: springgreen;
+    margin-bottom: 10px;
+}
+.new{
+    background-color: springgreen;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 550px;
+    padding: 0px 20px;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+}
+.mem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+    width: 100%;
+    
+    
+}
+
+.team-mem{
+    margin: 10px;
+}
+.team-mem:hover{
+    background-color: rgb(220, 217, 214);
+    border-radius: 7px;
+}
+img{
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    border-radius: 20px;
+    border-style: groove;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.img1{
+   width: 150px;
+}
+ h4{
+    text-align: center;
+    font-size: 12px;
+    
+    
+}
+h5{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+    color: springgreen;  
+}
+
+
+      
